@@ -13,7 +13,7 @@ This is a simple React project that allows you to select a player from a list of
 
 ## Live Demo
 
-Check out the live demo of the project here: [Live Demo](#) _()_
+Check out the live demo of the project here: [Live Demo](#) _(https://bpldreams.netlify.app/)_
 
 ## Technologies Used
 
